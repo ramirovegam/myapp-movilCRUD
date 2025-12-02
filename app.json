@@ -1,29 +1,32 @@
+
 {
   "expo": {
     "name": "my-app",
     "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/my-logo.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/my-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Esta aplicación necesita acceso a tu galería para subir imágenes."
+      }
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/my-logo.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
     }
   }
 }
