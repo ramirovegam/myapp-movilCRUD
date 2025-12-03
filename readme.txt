@@ -170,3 +170,4 @@ eas build -p android
 Con configuración en `eas.json`.
 
 ---
+<img width="1289" height="938" alt="image" src="https://github.com/user-attachments/assets/0231a507-07dc-47c6-b16a-658d56224f06" />
