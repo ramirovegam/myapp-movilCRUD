@@ -161,7 +161,3 @@ eas build -p android
 Con configuración en `eas.json`.
 
 ---
-<img width="1289" height="938" alt="image" src="https://github.com/ramirovegam/myapp-movilCRUD/blob/b486ef97c6b62d88690b91e04b88ae5bdf28f757/images/Multimedia.jpg" />
-<img width="1289" height="938" alt="image" src="https://github.com/ramirovegam/myapp-movilCRUD/blob/b486ef97c6b62d88690b91e04b88ae5bdf28f757/images/Multimedia(1).jpg" />
-<img width="1289" height="938" alt="image" src="https://github.com/ramirovegam/myapp-movilCRUD/blob/b486ef97c6b62d88690b91e04b88ae5bdf28f757/images/Multimedia(2).jpg" />
-<img width="1289" height="938" alt="image" src="https://github.com/ramirovegam/myapp-movilCRUD/blob/b486ef97c6b62d88690b91e04b88ae5bdf28f757/images/Multimedia(3).jpg" />
