@@ -113,7 +113,6 @@ src/
 App.js
 
 
-Si quieres, también te puedo generar:
 
 ✅ Badges (Expo, Firebase, React Native, versión)
 ✅ Una demo GIF de la app (la puedo armar si me pasas un video corto)
