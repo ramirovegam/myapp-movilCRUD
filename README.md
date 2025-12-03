@@ -1,12 +1,3 @@
-Perfecto. Ya entendí:
-➡️ **Tu proyecto NO es un clon de Instagram**, sino un **sistema de inventario / stock tecnológico**, con login, CRUD de productos y selección de íconos tecnológicos.
-
-Aquí tienes tu **README actualizado**, ya corregido, renombrado y adaptado al contexto REAL de tu app, **incluyendo las 4 imágenes de la carpeta `/images`**.
-
-Este README ya está listo para copiarse en GitHub y mostrar correctamente las capturas.
-
----
-
 # 📦 **StockTech — Sistema de Inventario Tecnológico (React Native + Firebase)**
 
 ## 📌 **Descripción del Proyecto**
@@ -170,4 +161,4 @@ eas build -p android
 Con configuración en `eas.json`.
 
 ---
-<img width="1289" height="938" alt="image" src="https://github.com/user-attachments/assets/0231a507-07dc-47c6-b16a-658d56224f06" />
+<img width="1289" height="938" alt="image" src="https://github.com/ramirovegam/myapp-movilCRUD/blob/b486ef97c6b62d88690b91e04b88ae5bdf28f757/images/Multimedia.jpg" />
